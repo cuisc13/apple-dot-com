@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T07:11:16.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="KqwiRXDJmFOZwE_4kAHR" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T08:37:13.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="MY6nMsXZ4vzSO3yMmZAK" version="13.8.0" type="github">
   <diagram id="eo-lCHlrdRHTa05kxo-I" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="DxfzpP4aNTXdEqOJoYWH-22" value="Hive 日志查询" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="230" y="860" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DxfzpP4aNTXdEqOJoYWH-23" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#D5E8D4;fillColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
